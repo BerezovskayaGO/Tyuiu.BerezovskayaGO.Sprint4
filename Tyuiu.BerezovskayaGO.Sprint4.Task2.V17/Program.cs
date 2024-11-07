@@ -32,7 +32,7 @@ namespace Tyuiu.BerezovskayaGO.Sprint4.Task2.V17
 
             for (int i = 0; i <= len - 1; i++)
             {
-                numsArray[i] = rnd.Next(3,9);
+                numsArray[i] = rnd.Next(3, 9);
             }
 
             Console.WriteLine("Массив: ");

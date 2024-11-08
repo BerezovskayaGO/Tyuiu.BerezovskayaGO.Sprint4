@@ -58,7 +58,7 @@ namespace Tyuiu.BerezovskayaGO.Sprint4.Task4.V29
             Console.WriteLine("********************************************************************************************");
             int res = ds.Calculate(mtrx);
 
-            Console.WriteLine("Количество четных элементов = " + res);
+            Console.WriteLine("Сумма четных элементов = " + res);
             Console.ReadKey();
         }
     }
